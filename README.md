@@ -5,3 +5,8 @@ Due to the repetitive nature of reducing data for the Chandra X-ray Telescope, m
 # How Do I Use It?
 
 I will write these instructions in due time.
+
+## Disclaimer 
+
+This code is still in development. As well, this was coded during a time of learning how to properly code. (I mean I still am, when does the learning end!?)
+
